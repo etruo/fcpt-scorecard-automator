@@ -1,5 +1,20 @@
 .streamlit/secrets.toml
 
+# Sensitive company materials
+Scorecard - Blank v1 streamlit.xlsx
+fixtures/
+tests/fixtures/
+*.xlsx
+*.pdf
+*.docx
+*.doc
+*.xls
+*.ppt
+*.pptx
+artifacts/
+tmp_upload.pdf
+templates/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
